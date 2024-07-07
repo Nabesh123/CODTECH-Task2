@@ -1,8 +1,13 @@
 **Name:** Narasimhan Shanmugam 
+
 **Company:** CODTECK IT SOLUTION 
+
 **ID:** CT12DS1634 
+
 **Domain:** Data Analytics
+
 **Duration:** SEPTEMBER 5th, 2024
+
 **Mentor:** Muzammil Ahmed
 
 ## Overview of the Project 
