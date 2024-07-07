@@ -19,6 +19,7 @@ stock prices. Apply time series analysis techniques to predict future stock pric
 
  ### Technologies Used 
  -**Python in colab:** The python is primary programming used 
+ ![Screenshot 2024-07-07 191839](https://github.com/Nabesh123/CODTECH-Task2/assets/136348129/01e83dba-467b-42b9-892d-3ebcb0945276)
  -**Pandas:** Myself used pandas lib for preset data 
  -**Metplotlib:** Used Metaplotlib for lib file
  
